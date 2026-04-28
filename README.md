@@ -58,15 +58,15 @@ URF-Theorie/
 
 ## Falsifikationskriterien
 
-| # | Kriterium               | Falsifikationsbedingung                                    |
-|---|-------------------------|------------------------------------------------------------|
-| 1 | DM-Teilchen-Nachweis    | Direkter Nachweis nicht-gravitational wechselwirkender DM  |
-| 2 | Baryonischer Anteil     | V²_bar/V²_flat != sqrt(Omega_b/Omega_m) in Stichprobe     |
-| 3 | Keine tau-Verzögerung   | Keine Relaxationszeit bei Galaxienmergers                  |
-| 4 | Bullet-Cluster          | Kein abnehmender Lensing-Offset mit Merger-Alter           |
-| 5 | Energieverletzung       | Ansteigendes Lyapunov-Funktional in Simulationen           |
-| 6 | eta(z)-Konstanz         | eta zeigt keine Korrelation mit sqrt(Omega_b(z)/Omega_m(z))|
-| 7 | UDG-Crossover           | Keine n-Drift bei Ultra Diffuse Galaxies                   |
+| # | Kriterium               | Falsifikationsbedingung                                     |
+|---|-------------------------|-------------------------------------------------------------|
+| 1 | DM-Teilchen-Nachweis    | Direkter Nachweis nicht-gravitational wechselwirkender DM   |
+| 2 | Baryonischer Anteil     | V²_bar/V²_flat != sqrt(Omega_b/Omega_m) in Stichprobe      |
+| 3 | Keine tau-Verzögerung   | Keine Relaxationszeit bei Galaxienmergers                   |
+| 4 | Bullet-Cluster          | Kein abnehmender Lensing-Offset mit Merger-Alter            |
+| 5 | Energieverletzung       | Ansteigendes Lyapunov-Funktional in Simulationen            |
+| 6 | eta(z)-Konstanz         | eta zeigt keine Korrelation mit sqrt(Omega_b(z)/Omega_m(z)) |
+| 7 | UDG-Crossover           | Keine n-Drift bei Ultra Diffuse Galaxies                    |
 
 ---
 
@@ -98,9 +98,10 @@ Transparenz, nicht als Entschuldigung.
 
 ---
 
-## Auch veröffentlicht auf
+## Veröffentlicht auf
 
-- **Zenodo:** *(DOI folgt nach Upload)*
+- **Zenodo:** https://zenodo.org/records/19847549
+- **GitHub:** https://github.com/FizbanLP/URF-Theorie
 
 ---
 
